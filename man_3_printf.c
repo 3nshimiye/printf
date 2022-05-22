@@ -1,4 +1,4 @@
-.TH man 3 "19 May 2022" "ALX Project" "_printf man page"
+.TH man 3 "22 May 2022" "ALX Project" "_printf man page"
 .SH EE 
 .B _printf
 - Formatted output conversion.
